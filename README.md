@@ -76,6 +76,15 @@ toolsgui/
 - ffmpeg / ffprobe（需在 PATH 中）
 - whisper.cpp（视频/音频转字幕功能需要）
 
+## 相关项目
+
+本项目工作流中使用的配套工具：
+
+- [LM Studio](https://lmstudio.ai/) — 本地大模型运行环境
+- [AITranslator](https://github.com/jxq1997216/AITranslator) — AI 翻译工具
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) — 语音合成
+- [pyvideotrans](https://github.com/jianchang512/pyvideotrans) — 视频翻译工具
+
 ## 许可
 
 MIT
