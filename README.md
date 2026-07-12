@@ -84,6 +84,7 @@ toolsgui/
 - [AITranslator](https://github.com/jxq1997216/AITranslator) — 使用大语言模型来翻译文件的图形化UI软件
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) — 功能强大的少样本语音转换和文本转语音
 - [pyvideotrans](https://github.com/jianchang512/pyvideotrans) — 一款功能强大的开源视频翻译/音频转录/AI 配音/字幕翻译工具
+- [FFmpeg](https://ffmpeg.org/) — 一个完整的跨平台解决方案，用于录制、转换和流式传输音频和视频
 
 ## 许可
 
