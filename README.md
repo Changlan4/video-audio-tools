@@ -85,6 +85,7 @@ toolsgui/
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) — 功能强大的少样本语音转换和文本转语音
 - [pyvideotrans](https://github.com/jianchang512/pyvideotrans) — 一款功能强大的开源视频翻译/音频转录/AI 配音/字幕翻译工具
 - [FFmpeg](https://ffmpeg.org/) — 一个完整的跨平台解决方案，用于录制、转换和流式传输音频和视频
+- [whisper.cpp]([https://ffmpeg.org/](https://github.com/ggml-org/whisper.cpp)) — OpenAI 的 Whisper 自动语音识别模型的高性能推理功能
 
 ## 许可
 
